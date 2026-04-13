@@ -1,96 +1,61 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=YASHMIT%20RAI&fontSize=48&fontColor=00F7FF&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20MERN%20%7C%20SYSTEMS&descAlignY=55&descSize=18"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=28&width=700&lines=Hi+there+👋;Yashmit+here;Building+real+world+systems;Consistency+over+hype"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=20&lines=Building+Real+World+Systems;AI+%2B+Robotics;MERN+Stack+in+Progress;Consistency+%3E+Motivation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=18&width=600&lines=AI+%7C+Full+Stack+%7C+Problem+Solver;Learning+%E2%86%92+Building+%E2%86%92+Improving"/>
 </p>
 
 ---
 
 ## 🧠 About
 
-- I build systems, not just projects  
-- Working on AI + Robotics + Full Stack (MERN)  
-- Focused on real-world problem solving  
-- Currently improving DSA & system thinking  
+```diff
++ I build systems, not just projects
++ Focused on real-world problem solving
++ Exploring AI, full stack, and scalable systems
++ Currently improving DSA and system thinking
+```
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,flask,opencv,git,github,vscode" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B"/>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv"/>
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Work
-
-### OpenGuy  
-Natural language → robot execution system  
-
-- Converts human instructions into structured actions  
-- Hybrid parsing (AI + rule-based fallback)  
-- Simulation-based execution  
-
----
-
-### AI Content Moderation System  
-AI-driven decision system for social platforms  
-
-- Classifies: positive / negative / abusive / spam  
-- Actions:
-  - reply (positive)  
-  - hide (abusive/spam)  
-  - ignore (neutral/negative)  
-- Reward-based decision logic  
-
----
-
-### AI Border Intrusion Detection  
-YOLOv8 real-time surveillance system  
-
-- Detects unauthorized movement  
-- Logs and alerts  
-
----
-
-### Driver Drowsiness Detection  
-Computer vision safety system  
-
-- Eye tracking + fatigue detection  
-- Real-time alerts  
-
----
-
-### E-Commerce Platform (MERN)  
-Full-stack application (in progress)  
-
-- React + Node + MongoDB  
-- Authentication + product system  
-
----
-
-### No Cap AI  
-AI output validation system  
-
-- Detects hallucinated outputs  
-- Improves reliability  
 
 ---
 
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmitrai&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashmitrai&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+## ✨ Interests
+
+- Full stack systems  
+- Computer vision & AI  
+- Real-world automation  
+- Scalable backend systems  
 
 ---
 
@@ -103,6 +68,10 @@ AI output validation system
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="160"/>
+</p>
 
 <p align="center">
   <i>build → break → improve → repeat</i>
